@@ -45,8 +45,8 @@
 <br/>
 <br/>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=azeemaj101" alt="M.Azeem" />
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/azeemaj101">
+    <img src="https://komarev.com/ghpvc/?username=izzab101" alt="M.Azeem" />
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/izzab101">
 </p>
 
 ## 🏆 Achievements
