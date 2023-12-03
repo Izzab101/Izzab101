@@ -1,6 +1,6 @@
 # Hi there, I'm Izzab 👋
                 
-## I'm a Developer, Teacher and Researcher!  
+## I'm a Student, Developer and Researcher!  
 - 🔭 I’m currently working as a Web Developer.
 - 🌱 I’m currently learning Front End Development.
 - 🥅 2024 Goals: Full Stack Developer.
